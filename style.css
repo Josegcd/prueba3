@@ -1,0 +1,23 @@
+body {
+background-color: rgba(38,44,58,255);
+}
+
+
+h1 {
+    font-family:sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(181,237,251,255);
+;
+}
+
+div{
+
+    font-size: 30px;
+}
+
+tr{
+    color:white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
